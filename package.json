@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexander/webserver73.git"
+    "url": "git+https://github.com/DanishDev/webserver73.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alexander/webserver73/issues"
+    "url": "https://github.com/DanishDev/webserver73/issues"
   },
-  "homepage": "https://github.com/alexander/webserver73#readme",
+  "homepage": "https://github.com/DanishDev/webserver73#readme",
   "dependencies": {
     "path": "^0.12.7",
     "restify": "^6.3.4"
